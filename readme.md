@@ -19,7 +19,9 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [eCommerce](#ecommerce)
 - [Mobile](#mobile)
 - [Dark](#dark)
+- [Navbar](#navbar)
 - [Footer](#footer)
+- [404](#404)
 - [Deck](#deck)
 - [OG](#og)
 - [Arts](#arts)
@@ -32,6 +34,13 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [Archive](#archive)
 - [Web3](#web3)
 - [Font](#font)
+- [Advertising](#advertising)
+- [Email](#email)
+- [Motion](#motion)
+- [Data Visualisation](#data-visualisation)
+- [Illustration](#illustration)
+- [Graphic Design](#graphic-design)
+- [Layout](#layout)
 
 ## Landing
 
@@ -95,6 +104,14 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [Dark Design](https://www.dark.design/) - The best hand-picked dark themed websites on the internet. From designers for designers. Curated with love
 - [Dark Mode Design](https://www.darkmodedesign.com/) - Dark Mode Design is a showcase of beautifully designed and inspiring dark mode websites. Dim the lights, lower your screen brightness, and enjoy.
 
+## Navbar
+
+- [Navbar Gallery](https://www.navbar.gallery/) - Best Navbar Design Inspiration Websites
+
+## 404
+
+- [404s](https://www.404s.design/) - A place to find all those lost pages worth finding
+
 ## Footer
 
 - [Footer Design](https://www.footer.design/) - Footer is a curated gallery of the top website footer inspiration on earth. Find the footers you need and sort by type and style.
@@ -120,7 +137,6 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 
 ## Brand
 
-- [Showreelz](https://www.showreelz.com/) - Showreelz is a design inspiration feed showcasing notable motion design videos.
 - [Rebrand](https://www.rebrand.gallery/) - Explore the best new design systems, visual identity introductions and rebrand videos.
 
 ## Design
@@ -164,3 +180,36 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [Font In Logo](https://www.fontinlogo.com/) - Search & find FONTS used by World Brands in their logos, such as Nike, Tesla, Chanel, Adidas, Youtube, BMW font, New York Times, Sony, Nvidia and more.
 - [TypoMonday](https://www.typomonday.com/) - Hello and welcome to my weekly series called typomonday where i share each monday various website layouts i designed in the past week focusing on typography exploration.
 - [Free Faces](https://www.freefaces.gallery/) - This website is a curated collection of typefaces that are available under a variety of free licences somewhere on the interwebs.
+
+## Advertising
+
+- [STEEP](https://www.steep.design/) - Creative story design examples.
+- [Adfolio](https://www.adfolio.design/) - Social ads for design and copy inspiration.
+- [Love The Work More](https://lovetheworkmore.com/) - A collection of award-winning advertising campaigns.
+- []() -
+- []() -
+
+## Email
+
+- [Really Good Emails](https://reallygoodemails.com/) - 169k+ email marketers already using Really Good Emails
+
+## Motion
+
+- [Showreelz](https://www.showreelz.com/) - Showreelz is a design inspiration feed showcasing notable motion design videos.
+- [EYECANDY](https://eyecannndy.com/) - Showcases captivating motion graphics and animations.
+
+## Data Visualisation
+
+- [Data Viz Project](https://datavizproject.com/) - Comprehensive resource for data visualization examples and techniques.
+
+## Illustration
+
+- [Illustration Universe](https://illustrationsuniverse.com/) - Get inspiration from world's best illustrations.
+
+## Graphic Design
+
+- [AIGA Eye on Design](https://eyeondesign.aiga.org/) - Trends and insights from the world of graphic design.
+
+## Layout
+
+- [Bento Grids](https://bentogrids.com/) - Inspirational grids and bento layouts.
