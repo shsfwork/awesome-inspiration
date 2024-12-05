@@ -11,7 +11,7 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 ## Table of Contents
 
 - [Landing](#landing)
-- [UX](#ux)
+- [UI/UX](#uiux)
 - [SaaS](#saas)
 - [Onboarding](#onboarding)
 - [Component](#component)
@@ -64,8 +64,9 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [SaaS Shots](https://typefully.com/saasshots) - Hand-picked design patterns from real SaaS products.
 - [Saaspo](https://saaspo.com/) - A curated collection of the best SaaS websites on the web.
 
-## Ux
+## - UI/UX
 
+- [Collect UI](https://collectui.com/) - Daily inspiration collected from daily ui archive and beyond. Based on Dribbble shots, hand picked, updating daily.
 - [Pageflows](https://pageflows.com/) - Explore real-world user flows and design patterns from leading apps and websites.
 
 ## Onboarding
