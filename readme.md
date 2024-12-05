@@ -2,6 +2,12 @@
 
 A curated collection of the best resources for designers and developers to elevate their projects. Explore inspiration for landing pages, SaaS, components, UX patterns, and much more.
 
+## Contributing
+
+Contributions are always welcome!
+
+See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/main/contributing.md) for ways to get started.
+
 ## Table of Contents
 
 - [Landing](#landing)
@@ -25,7 +31,6 @@ A curated collection of the best resources for designers and developers to eleva
 - [Portfolio](#portfolio)
 - [Archive](#archive)
 - [Web3](#web3)
-
 
 ## Landing
 
