@@ -41,6 +41,8 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [Illustration](#illustration)
 - [Graphic Design](#graphic-design)
 - [Layout](#layout)
+- [Color](#color)
+- [Newsletter](#newsletter)
 
 ## Landing
 
@@ -146,6 +148,7 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [SearchSystem™](https://searchsystem.co/) - An ever-growing collection of references and tools for designers.
 - [Visual Journal](https://visualjournal.it/) - The best in Branding, Editorial and Graphic Design
 - [Evernote.Design](https://www.evernote.design/) - All in One Bookmark Links for Designer
+- [Checklist Design](https://www.checklist.design/) - A collection of the best design practices.
 
 ## Development
 
@@ -186,8 +189,6 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [STEEP](https://www.steep.design/) - Creative story design examples.
 - [Adfolio](https://www.adfolio.design/) - Social ads for design and copy inspiration.
 - [Love The Work More](https://lovetheworkmore.com/) - A collection of award-winning advertising campaigns.
-- []() -
-- []() -
 
 ## Email
 
@@ -213,3 +214,11 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 ## Layout
 
 - [Bento Grids](https://bentogrids.com/) - Inspirational grids and bento layouts.
+
+## Color
+
+- [Looka](https://looka.com/blog/color-combinations/) - 60 Stunning Color Combinations to Elevate Your Next Project
+
+## Newsletter
+
+- [Designer Daily Report](https://app.designerdailyreport.com/) - Curated Newspaper for Designers
