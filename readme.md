@@ -31,6 +31,7 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [Portfolio](#portfolio)
 - [Archive](#archive)
 - [Web3](#web3)
+- [Font](#font)
 
 ## Landing
 
@@ -88,9 +89,6 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [SCRNSHTS](https://scrnshts.club/) - SCRNSHTS – A hand-picked collection of the finest app store design screenshots
 - [Mobbin](https://mobbin.com/) - Browse and search across hundreds of iOS apps for UI & UX research.
 - [60fps](https://60fps.design/) - Endless collection of delightful details from best-in-class apps.
-- []()
-- []()
-- []()
 
 ## Dark
 
@@ -154,4 +152,15 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 
 ## Web3
 
-- [W3design](https://w3design.io/)
+- [W3design](https://w3design.io/) - Explore the latest in web design trends, top resources, and must-have tools – your go-to hub for everything web design
+
+## Font
+
+- [Type Fan](https://www.type.fan/) - A showcase of the best typography on the web
+- [Typewolf](https://www.typewolf.com/akkurat) - Websites using the typeface Akkurat with personal recommendations for similar web fonts, suggested font pairings and the closest free alternative.
+- [Fonts In Use](https://fontsinuse.com/) - A searchable archive of typographic design, indexed by typeface, format, and topic.
+- [Fonts in the Wild](https://www.fontsinthewild.com/) - Quickly find quality free & paid fonts for your next project
+- [Fontshare](https://www.fontshare.com/) - Fontshare is a free fonts service from the Indian Type Foundry (ITF), making quality fonts accessible to all.
+- [Font In Logo](https://www.fontinlogo.com/) - Search & find FONTS used by World Brands in their logos, such as Nike, Tesla, Chanel, Adidas, Youtube, BMW font, New York Times, Sony, Nvidia and more.
+- [TypoMonday](https://www.typomonday.com/) - Hello and welcome to my weekly series called typomonday where i share each monday various website layouts i designed in the past week focusing on typography exploration.
+- [Free Faces](https://www.freefaces.gallery/) - This website is a curated collection of typefaces that are available under a variety of free licences somewhere on the interwebs.
