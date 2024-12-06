@@ -38,13 +38,16 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [Motion](#motion)
 - [Data Visualisation](#data-visualisation)
 - [Illustration](#illustration)
-- [Graphic Design & Branding](#graphic-design--branding)
+- [Graphic Design](#graphic-design)
+- [Branding](#branding)
+- [Poster](#poster)
 - [Layout](#layout)
 - [Color](#color)
 - [Newsletter](#newsletter)
 - [Photography](#photography)
 - [Search](#search)
 - [UI Library](#ui-library)
+- [More Extreme](#more-extreme)
 
 ## Landing
 
@@ -209,10 +212,17 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 
 - [Illustration Universe](https://illustrationsuniverse.com/) - Get inspiration from world's best illustrations.
 
-## Graphic Design & Branding
+## Graphic Design
+
+- [AIGA Eye on Design](https://eyeondesign.aiga.org/) - Trends and insights from the world of graphic design.
+
+## Branding
 
 - [Rebrand](https://www.rebrand.gallery/) - Explore the best new design systems, visual identity introductions and rebrand videos.
-- [AIGA Eye on Design](https://eyeondesign.aiga.org/) - Trends and insights from the world of graphic design.
+
+## Poster
+
+- [typo/graphic posters](https://www.typographicposters.com/) - Since 2008, a reference platform for typographic and graphic posters.
 
 ## Layout
 
@@ -238,3 +248,7 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 
 - [Magic UI](https://magicui.design/) - 50+ free and open-source animated components
 - [ANIMATA](https://animata.design/) - Hand-crafted ✍️ interaction animations and effects from around the internet 🛜 to copy and paste into your project.
+
+## More Extreme
+
+- [Dead Simple Sites](https://deadsimplesites.com/) - Minimal Website Inspiration
