@@ -44,6 +44,7 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [Newsletter](#newsletter)
 - [Photography](#photography)
 - [Search](#search)
+- [UI Library](#ui-library)
 
 ## Landing
 
@@ -232,3 +233,8 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 ## Search
 
 - [Same Energy](https://same.energy/) - Find similar visual inspirations easily.
+
+## UI Library
+
+- [Magic UI](https://magicui.design/) - 50+ free and open-source animated components
+- [ANIMATA](https://animata.design/) - Hand-crafted ✍️ interaction animations and effects from around the internet 🛜 to copy and paste into your project.
