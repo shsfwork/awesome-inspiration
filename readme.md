@@ -26,10 +26,9 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [OG](#og)
 - [Arts](#arts)
 - [Logo](#logo)
-- [Brand](#brand)
 - [Design](#design)
 - [Development](#development)
-- [Auto](#auto)
+- [Interface](#interface)
 - [Portfolio](#portfolio)
 - [Archive](#archive)
 - [Web3](#web3)
@@ -39,10 +38,12 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [Motion](#motion)
 - [Data Visualisation](#data-visualisation)
 - [Illustration](#illustration)
-- [Graphic Design](#graphic-design)
+- [Graphic Design & Branding](#graphic-design--branding)
 - [Layout](#layout)
 - [Color](#color)
 - [Newsletter](#newsletter)
+- [Photography](#photography)
+- [Search](#search)
 
 ## Landing
 
@@ -140,10 +141,6 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [Logobook](http://logobook.com/) - A gallery and showcase of the best logo design inspiration in the world, featuring over 5000 logo's searchable by designer, shape, object, and style
 - [Logo System](https://logosystem.co/) - The biggest logo design library for designer. Explore over 400 logo design on Logo System.
 
-## Brand
-
-- [Rebrand](https://www.rebrand.gallery/) - Explore the best new design systems, visual identity introductions and rebrand videos.
-
 ## Design
 
 - [Mindsparkle Mag](https://mindsparklemag.com/) - We showcase award winning design projects including branding, illustration, graphic design & many more.
@@ -157,9 +154,10 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 
 - [Nextjs Design](https://www.nextjs.design/) - Explore a curated directory of free web development tools for designers and engineers. Find resources for JavaScript, Tailwind CSS, and more!
 
-## Auto
+## Interface
 
 - [Auto Interfaces](https://www.autointerfaces.com/) - Auto Interfaces is the best collection of modern vehicle infotainment system designs, interactions and screens.
+- [HUDS + GUIS](https://www.hudsandguis.com/) - Inspiration for heads-up displays and graphical user interfaces.
 
 ## Portfolio
 
@@ -210,8 +208,9 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 
 - [Illustration Universe](https://illustrationsuniverse.com/) - Get inspiration from world's best illustrations.
 
-## Graphic Design
+## Graphic Design & Branding
 
+- [Rebrand](https://www.rebrand.gallery/) - Explore the best new design systems, visual identity introductions and rebrand videos.
 - [AIGA Eye on Design](https://eyeondesign.aiga.org/) - Trends and insights from the world of graphic design.
 
 ## Layout
@@ -225,3 +224,11 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 ## Newsletter
 
 - [Designer Daily Report](https://app.designerdailyreport.com/) - Curated Newspaper for Designers
+
+## Photography
+
+- [500px](https://500px.com/discover/popular?category=&type=&attributes=&sort=POPULAR_PULSE) - Explore the most popular photos on 500px with the highest Pulse ratings. Discover stunning new uploads from talented photographers worldwide.
+
+## Search
+
+- [Same Energy](https://same.energy/) - Find similar visual inspirations easily.
