@@ -52,6 +52,7 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [Accessibility](#accessibility)
 - [Copywriting](#copywriting)
 - [Marketing](#marketing)
+- [Boilerplate](#boilerplate)
 
 ## Landing
 
@@ -267,7 +268,6 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [A11Y Project](https://www.a11yproject.com/) - The A11Y Project is a community-driven effort to make digital accessibility easier.
 - [Access Guide](https://www.accessguide.io/) - Access Guide is a friendly introduction to digital accessibility based on WCAG 2.1
 - [Randoma11y](https://randoma11y.com/) - Get random, accessible color combinations
-- []() -
 
 ## Copywriting
 
@@ -276,3 +276,7 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 ## Marketing
 
 - [Marketing Examples](https://marketingexamples.com/) - 150+ short, sweet, practical examples
+
+## Boilerplate
+
+- [next-saas-starter](https://github.com/leerob/next-saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui. -[Saas-Kit-prisma](https://github.com/Saas-Starter-Kit/Saas-Kit-prisma) - A template for building Software-as-Service (SAAS) apps with Reactjs, Nextjs, Prisma and OpenAI integration
