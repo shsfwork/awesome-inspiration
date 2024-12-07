@@ -253,6 +253,7 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 
 - [Magic UI](https://magicui.design/) - 50+ free and open-source animated components
 - [ANIMATA](https://animata.design/) - Hand-crafted ✍️ interaction animations and effects from around the internet 🛜 to copy and paste into your project.
+- [Aceternity UI](https://ui.aceternity.com/) - Copy paste the most trending components and use them in your websites without having to worry about styling and animations.
 
 ## More Extreme
 
