@@ -48,6 +48,7 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [Search](#search)
 - [UI Library](#ui-library)
 - [More Extreme](#more-extreme)
+- [Book](#book)
 
 ## Landing
 
@@ -252,3 +253,7 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 ## More Extreme
 
 - [Dead Simple Sites](https://deadsimplesites.com/) - Minimal Website Inspiration
+
+## Book
+
+- [Good Books](https://www.goodbooks.io/) - Books recommended by successful people
