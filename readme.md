@@ -49,6 +49,9 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [UI Library](#ui-library)
 - [More Extreme](#more-extreme)
 - [Book](#book)
+- [Accessibility](#accessibility)
+- [Copywriting](#copywriting)
+- [Marketing](#marketing)
 
 ## Landing
 
@@ -257,3 +260,19 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 ## Book
 
 - [Good Books](https://www.goodbooks.io/) - Books recommended by successful people
+
+## Accessibility
+
+- [Accessibility Not-Checklist](https://not-checklist.intopia.digital/) - The Not-Checklist provides a foundational guide for those new to accessibility. It offers an overview of key considerations but doesn't teach WCAG in detail.
+- [A11Y Project](https://www.a11yproject.com/) - The A11Y Project is a community-driven effort to make digital accessibility easier.
+- [Access Guide](https://www.accessguide.io/) - Access Guide is a friendly introduction to digital accessibility based on WCAG 2.1
+- [Randoma11y](https://randoma11y.com/) - Get random, accessible color combinations
+- []() -
+
+## Copywriting
+
+- [Copywriting Examples](https://marketingexamples.com/inspiration) - The world's best copy. In one place.
+
+## Marketing
+
+- [Marketing Examples](https://marketingexamples.com/) - 150+ short, sweet, practical examples
