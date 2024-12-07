@@ -280,4 +280,5 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 
 ## Boilerplate
 
-- [next-saas-starter](https://github.com/leerob/next-saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui. -[Saas-Kit-prisma](https://github.com/Saas-Starter-Kit/Saas-Kit-prisma) - A template for building Software-as-Service (SAAS) apps with Reactjs, Nextjs, Prisma and OpenAI integration
+- [next-saas-starter](https://github.com/leerob/next-saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
+- [Saas-Kit-prisma](https://github.com/Saas-Starter-Kit/Saas-Kit-prisma) - A template for building Software-as-Service (SAAS) apps with Reactjs, Nextjs, Prisma and OpenAI integration
