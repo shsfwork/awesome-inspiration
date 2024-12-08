@@ -53,6 +53,7 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [Copywriting](#copywriting)
 - [Marketing](#marketing)
 - [Boilerplate](#boilerplate)
+- [Background](#background)
 
 ## Landing
 
@@ -282,3 +283,8 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 
 - [next-saas-starter](https://github.com/leerob/next-saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
 - [Saas-Kit-prisma](https://github.com/Saas-Starter-Kit/Saas-Kit-prisma) - A template for building Software-as-Service (SAAS) apps with Reactjs, Nextjs, Prisma and OpenAI integration
+
+## Background
+
+- [Gradient Background](https://cssgradient.io/gradient-backgrounds/) - With 1000+ gradients, it's easy to find the 👌 color!
+- [bg ibelick](https://bg.ibelick.com/) - Collection of modern, background snippets
