@@ -92,6 +92,7 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 ## Web
 
 - [The Animated Web](https://theanimatedweb.com/) - Amazing animation resources and inspiration from around the web.
+- [Websitevise](https://websitevice.com/) - A curated gallery of professional website designs to inspire developers and designers seeking creative ideas and best practices.
 - [Unsection](https://www.unsection.com/) - Discover curated website section design library
 - [Refero](https://refero.design/) - The biggest collection of design references from great web applications.
 - [Curated design](https://www.curated.design/) - Unleash your creativity with out-of-this-world web design inspiration from across the web.
