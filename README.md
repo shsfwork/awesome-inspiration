@@ -91,6 +91,7 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 
 ## Web
 
+- [A1 Gallery](https://www.a1.gallery) - Hand-curated gallery of 1,000+ websites, filterable by technology stack, font, style, colour, creator, type, and category.
 - [The Animated Web](https://theanimatedweb.com/) - Amazing animation resources and inspiration from around the web.
 - [Websitevice](https://websitevice.com/) - A curated gallery of professional website designs to inspire developers and designers seeking creative ideas and best practices.
 - [Unsection](https://www.unsection.com/) - Discover curated website section design library
