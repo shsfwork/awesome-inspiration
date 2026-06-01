@@ -291,3 +291,4 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 
 - [Gradient Background](https://cssgradient.io/gradient-backgrounds/) - With 1000+ gradients, it's easy to find the 👌 color!
 - [bg ibelick](https://bg.ibelick.com/) - Collection of modern, background snippets
+- [AI Tools Hub](https://cloud1-d4g787x2022795b0b-1435432994.tcloudbaseapp.com/hub.html) - 21 free AI tools, one-time crypto payment, no subscriptions.
