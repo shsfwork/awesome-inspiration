@@ -115,6 +115,7 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 ## Mobile
 
 - [SCRNSHTS](https://scrnshts.club/) - SCRNSHTS – A hand-picked collection of the finest app store design screenshots
+- [Gummble](https://gummble.com/) - Search real mobile app screens, UX flows, patterns, and microcopy for design research and AI agents.
 - [Mobbin](https://mobbin.com/) - Browse and search across hundreds of iOS apps for UI & UX research.
 - [60fps](https://60fps.design/) - Endless collection of delightful details from best-in-class apps.
 
