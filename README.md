@@ -243,6 +243,7 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 ## Color
 
 - [Looka](https://looka.com/blog/color-combinations/) - 60 Stunning Color Combinations to Elevate Your Next Project
+- [Nutilz Color Picker](https://nutilz.com/color-picker) - Free browser-based color picker that converts HEX, RGB, and HSL instantly, generates a five-color complementary palette, and outputs a ready-to-paste CSS variable. No upload, no signup.
 
 ## Newsletter
 
