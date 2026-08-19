@@ -74,6 +74,7 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [SaaSFrame](https://www.saasframe.io/) - Browse hundreds of SaaS marketing pages, product interfaces and email flows.
 - [SaaS Shots](https://typefully.com/saasshots) - Hand-picked design patterns from real SaaS products.
 - [Saaspo](https://saaspo.com/) - A curated collection of the best SaaS websites on the web.
+- [BestSaaSWebDesigns](https://bestsaaswebdesigns.com/) - A curated collection of the best SaaS website designs, with the tech stack and color palette behind every one.
 
 ## UI & UX
 
