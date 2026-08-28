@@ -74,12 +74,15 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [SaaSFrame](https://www.saasframe.io/) - Browse hundreds of SaaS marketing pages, product interfaces and email flows.
 - [SaaS Shots](https://typefully.com/saasshots) - Hand-picked design patterns from real SaaS products.
 - [Saaspo](https://saaspo.com/) - A curated collection of the best SaaS websites on the web.
+- [BestSaaSWebDesigns](https://bestsaaswebdesigns.com/) - A curated collection of the best SaaS website designs, with the tech stack and color palette behind every one.
 
 ## UI & UX
 
 - [Collect UI](https://collectui.com/) - Daily inspiration collected from daily ui archive and beyond. Based on Dribbble shots, hand picked, updating daily.
 - [Pageflows](https://pageflows.com/) - Explore real-world user flows and design patterns from leading apps and websites.
 - [UIZZE](https://uizze.com) - Free MIT anti-ui-slop Skill with a product-specific design contract, required UI states, and hard finish gate; full UIZZE adds live search, validation, and audits across 800,000+ real web and iOS screens.
+- [UIZZE](https://uizze.com) - Search 800,000+ real web and iOS screens to give Codex, Claude Code, Cursor, and product teams specific UI direction instead of generic UI slop.
+- [Kombai Gallery](https://kombai.com/gallery/web/) - A free, growing library of web and mobile UI inspiration for designers and design engineers to explore, adapt, and remix into real products.
 
 ## Onboarding
 
@@ -170,6 +173,7 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [BulkPicTools](https://bulkpictools.com/) - Free browser-based bulk image processor. Compress, convert (HEIC/WebP/AVIF/PNG/JPG), resize, crop, watermark 1,000+ images at once — no upload, no account needed.
 - [TinyTools](https://tinytools-smoky.vercel.app/) - Free browser-based utility suite: favicon generator, OG image generator, color palette generator, AI background remover (runs locally, no upload), domain name generator, SEO meta tag generator, AI cost calculator, AI content disclosure generator, and AI robots.txt generator. Open source.
 - [igly.ai](https://igly.ai) - AI image editing platform for background removal, inpainting, upscaling, and generative fill.
+- [ArtboardLab](https://artboardlab.com) - Free browser-based design tools: open and convert Adobe Illustrator (.ai) files to SVG/PNG/PDF, plus image compression (PNG/JPG/WebP/AVIF). Everything runs in the browser — no upload, no account needed.
 
 ## Interface
 
