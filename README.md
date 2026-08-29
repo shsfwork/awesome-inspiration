@@ -81,7 +81,6 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [Collect UI](https://collectui.com/) - Daily inspiration collected from daily ui archive and beyond. Based on Dribbble shots, hand picked, updating daily.
 - [Pageflows](https://pageflows.com/) - Explore real-world user flows and design patterns from leading apps and websites.
 - [UIZZE](https://uizze.com) - Free MIT anti-ui-slop Skill with a product-specific design contract, required UI states, and hard finish gate; full UIZZE adds live search, validation, and audits across 800,000+ real web and iOS screens.
-- [UIZZE](https://uizze.com) - Search 800,000+ real web and iOS screens to give Codex, Claude Code, Cursor, and product teams specific UI direction instead of generic UI slop.
 - [Kombai Gallery](https://kombai.com/gallery/web/) - A free, growing library of web and mobile UI inspiration for designers and design engineers to explore, adapt, and remix into real products.
 
 ## Onboarding
