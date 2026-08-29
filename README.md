@@ -169,6 +169,8 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [BulkPicTools](https://bulkpictools.com/) - Free browser-based bulk image processor. Compress, convert (HEIC/WebP/AVIF/PNG/JPG), resize, crop, watermark 1,000+ images at once — no upload, no account needed.
 - [TinyTools](https://tinytools-smoky.vercel.app/) - Free browser-based utility suite: favicon generator, OG image generator, color palette generator, AI background remover (runs locally, no upload), domain name generator, SEO meta tag generator, AI cost calculator, AI content disclosure generator, and AI robots.txt generator. Open source.
 - [igly.ai](https://igly.ai) - AI image editing platform for background removal, inpainting, upscaling, and generative fill.
+- [Nutilz](https://nutilz.com) - 23 free browser-based developer tools: regex tester, JSON formatter, unit converter, and calculators. No sign-up required.
+
 
 ## Interface
 
