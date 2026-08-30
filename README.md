@@ -74,12 +74,14 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [SaaSFrame](https://www.saasframe.io/) - Browse hundreds of SaaS marketing pages, product interfaces and email flows.
 - [SaaS Shots](https://typefully.com/saasshots) - Hand-picked design patterns from real SaaS products.
 - [Saaspo](https://saaspo.com/) - A curated collection of the best SaaS websites on the web.
+- [BestSaaSWebDesigns](https://bestsaaswebdesigns.com/) - A curated collection of the best SaaS website designs, with the tech stack and color palette behind every one.
 
 ## UI & UX
 
 - [Collect UI](https://collectui.com/) - Daily inspiration collected from daily ui archive and beyond. Based on Dribbble shots, hand picked, updating daily.
 - [Pageflows](https://pageflows.com/) - Explore real-world user flows and design patterns from leading apps and websites.
-- [UIZZE](https://uizze.com) - Search 800,000+ real web and iOS screens to give Codex, Claude Code, Cursor, and product teams specific UI direction instead of generic UI slop.
+- [UIZZE](https://uizze.com) - Search 800,000+ real web and iOS screens for focused UI references, with free agent skills for design direction and finish checks.
+- [Kombai Gallery](https://kombai.com/gallery/web/) - A free, growing library of web and mobile UI inspiration for designers and design engineers to explore, adapt, and remix into real products.
 
 ## Onboarding
 
@@ -115,6 +117,7 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 ## Mobile
 
 - [SCRNSHTS](https://scrnshts.club/) - SCRNSHTS – A hand-picked collection of the finest app store design screenshots
+- [Gummble](https://gummble.com/) - Search real mobile app screens, UX flows, patterns, and microcopy for design research and AI agents.
 - [Mobbin](https://mobbin.com/) - Browse and search across hundreds of iOS apps for UI & UX research.
 - [60fps](https://60fps.design/) - Endless collection of delightful details from best-in-class apps.
 
@@ -171,6 +174,7 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [igly.ai](https://igly.ai) - AI image editing platform for background removal, inpainting, upscaling, and generative fill.
 - [Nutilz](https://nutilz.com) - 23 free browser-based developer tools: regex tester, JSON formatter, unit converter, and calculators. No sign-up required.
 
+- [ArtboardLab](https://artboardlab.com) - Free browser-based design tools: open and convert Adobe Illustrator (.ai) files to SVG/PNG/PDF, plus image compression (PNG/JPG/WebP/AVIF). Everything runs in the browser — no upload, no account needed.
 
 ## Interface
 
@@ -245,6 +249,7 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 ## Color
 
 - [Looka](https://looka.com/blog/color-combinations/) - 60 Stunning Color Combinations to Elevate Your Next Project
+- [Nutilz Color Picker](https://nutilz.com/color-picker) - Free browser-based color picker that converts HEX, RGB, and HSL instantly, generates a five-color complementary palette, and outputs a ready-to-paste CSS variable. No upload, no signup.
 
 ## Newsletter
 
