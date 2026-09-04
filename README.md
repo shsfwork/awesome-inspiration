@@ -282,6 +282,7 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [Accessibility Not-Checklist](https://not-checklist.intopia.digital/) - The Not-Checklist provides a foundational guide for those new to accessibility. It offers an overview of key considerations but doesn't teach WCAG in detail.
 - [A11Y Project](https://www.a11yproject.com/) - The A11Y Project is a community-driven effort to make digital accessibility easier.
 - [Access Guide](https://www.accessguide.io/) - Access Guide is a friendly introduction to digital accessibility based on WCAG 2.1
+- [FrontendAtlas: Modal Screen Reader Failure](https://frontendatlas.com/incidents/modal-screen-reader-failure) - An incident-based guide to diagnosing and preventing screen-reader failures in modal dialogs.
 - [Randoma11y](https://randoma11y.com/) - Get random, accessible color combinations
 
 ## Copywriting
