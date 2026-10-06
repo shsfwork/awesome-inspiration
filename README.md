@@ -178,6 +178,8 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [ArtboardLab](https://artboardlab.com) - Free browser-based design tools: open and convert Adobe Illustrator (.ai) files to SVG/PNG/PDF, plus image compression (PNG/JPG/WebP/AVIF). Everything runs in the browser — no upload, no account needed.
 - [PicCollages](https://piccollages.com/) - Free browser-based photo collage maker with grid layouts, spacing, borders, text and stickers; local editing and direct export need no account, while optional account work-saving uploads photos.
 
+- [Fomrix GLB Viewer](https://fomrix.com/glb-viewer) - Free browser-based GLB viewer for inspecting web 3D assets, mesh geometry, materials and textures locally; no account or generation credits are needed for viewing.
+
 ## Interface
 
 - [Auto Interfaces](https://www.autointerfaces.com/) - Auto Interfaces is the best collection of modern vehicle infotainment system designs, interactions and screens.
