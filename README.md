@@ -208,6 +208,7 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [Font In Logo](https://www.fontinlogo.com/) - Search & find FONTS used by World Brands in their logos, such as Nike, Tesla, Chanel, Adidas, Youtube, BMW font, New York Times, Sony, Nvidia and more.
 - [TypoMonday](https://www.typomonday.com/) - Hello and welcome to my weekly series called typomonday where i share each monday various website layouts i designed in the past week focusing on typography exploration.
 - [Free Faces](https://www.freefaces.gallery/) - This website is a curated collection of typefaces that are available under a variety of free licences somewhere on the interwebs.
+- [FontVibe](https://fontvibe.ai/) - AI text effect and lettering designs for logos, banners and thumbnails, with 390+ AI fonts and 130+ visual styles. Free to try.
 
 ## Advertising
 
