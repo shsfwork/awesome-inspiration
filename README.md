@@ -82,6 +82,7 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [Pageflows](https://pageflows.com/) - Explore real-world user flows and design patterns from leading apps and websites.
 - [UIZZE](https://uizze.com) - Search 800,000+ real web and iOS screens for focused UI references, with free agent skills for design direction and finish checks.
 - [Kombai Gallery](https://kombai.com/gallery/web/) - A free, growing library of web and mobile UI inspiration for designers and design engineers to explore, adapt, and remix into real products.
+- [The UI Index](https://theuiindex.com/) - Free library of real website screens and flows from 1,400 live sites, on desktop and mobile, filterable by screen type, sector, typeface and colour.
 
 ## Onboarding
 
