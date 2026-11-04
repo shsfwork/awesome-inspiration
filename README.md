@@ -86,6 +86,7 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 ## Onboarding
 
 - [Onboarding love](https://www.marbleflows.com/onboarding) - 100+ User onboarding flows and templates with screenshots, screens, and customer journeys from top SaaS companies.
+- [KYC Flows](https://www.kycflows.com/) - Screen-by-screen screenshots of embedded-wallet sign-up and KYC flows (Privy, Dynamic, MetaMask Embedded, thirdweb, Crossmint, Didit), re-captured weekly.
 
 ## Component
 
