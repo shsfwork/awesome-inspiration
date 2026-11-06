@@ -82,6 +82,7 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [Pageflows](https://pageflows.com/) - Explore real-world user flows and design patterns from leading apps and websites.
 - [UIZZE](https://uizze.com) - Search 800,000+ real web and iOS screens for focused UI references, with free agent skills for design direction and finish checks.
 - [Kombai Gallery](https://kombai.com/gallery/web/) - A free, growing library of web and mobile UI inspiration for designers and design engineers to explore, adapt, and remix into real products.
+- [Pixlpin](https://pixlpin.com/) - Free, curated library of real app screens, user flows and design inspiration, with "more like this" on every design.
 
 ## Onboarding
 
@@ -91,6 +92,7 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 
 - [The component gallery](https://component.gallery/) - The Component Gallery is a collection of components from the best Design Systems.
 - [uilabs](https://www.uilabs.dev/) - Small laboratory of fine UI. Website and components designed and built by mrncst.
+- [qodesign-free](https://teodoravadani.github.io/qodesign-free/) - Free MIT animated React components and the live Orbit and Ledger dashboards, with source you can copy in through the shadcn CLI.
 
 ## Web
 
@@ -121,6 +123,7 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [Mobbin](https://mobbin.com/) - Browse and search across hundreds of iOS apps for UI & UX research.
 - [Flownato](https://www.flownato.com/) - Real Android app screens, complete user flows and UI patterns from Indian consumer apps, with public previews and an MCP server for design research.
 - [60fps](https://60fps.design/) - Endless collection of delightful details from best-in-class apps.
+- [APPLORE](https://applore.app/) - 18,000+ real App Store and Google Play icons, browsable by color and style, with past versions saved.
 
 ## Dark
 
@@ -166,6 +169,7 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [Visual Journal](https://visualjournal.it/) - The best in Branding, Editorial and Graphic Design
 - [Evernote.Design](https://www.evernote.design/) - All in One Bookmark Links for Designer
 - [Checklist Design](https://www.checklist.design/) - A collection of the best design practices.
+- [Design Details](https://designdetails.io/) - A free library of real website designs with full-page captures, motion recordings, typography, and color breakdowns.
 
 ## Development
 
@@ -176,8 +180,15 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [Nutilz](https://nutilz.com) - 23 free browser-based developer tools: regex tester, JSON formatter, unit converter, and calculators. No sign-up required.
 
 - [ArtboardLab](https://artboardlab.com) - Free browser-based design tools: open and convert Adobe Illustrator (.ai) files to SVG/PNG/PDF, plus image compression (PNG/JPG/WebP/AVIF). Everything runs in the browser — no upload, no account needed.
+- [Pic2SVG](https://pic2svg.com/) - Browser-based image-to-SVG converter with editable paths and SVG, PDF, EPS, AI, and DXF export.
+- [IconVectors](https://iconvectors.io/) - Desktop SVG icon editor for Windows, macOS, and Linux with vector editing and export to SVG, React, Vue, and native UI formats. Paid software with a 30-day trial.
 - [PicCollages](https://piccollages.com/) - Free browser-based photo collage maker with grid layouts, spacing, borders, text and stickers; local editing and direct export need no account, while optional account work-saving uploads photos.
 - [Pic2Vector](https://pic2vector.com/) - Free browser-based image to SVG converter. Local WebAssembly tracing (vtracer), no account, watermark-free layered SVG export.
+- [RadarMakers Maker Tools](https://radarmakers.com/tools) - Free browser tools for indie makers: favicon and PWA icon package, image optimizer, screenshot mockups, UTM link builder, changelog generator, launch date planner, plus meta tag and social card previews. No account needed, files stay in the browser.
+- [deed.page](https://deed.page) - Free hosting for a single HTML file or a static folder: upload with one `curl -T` command and get a permanent public link, no account needed. Handy for sharing prototypes and design mockups.
+- [CurlShot](https://curlshot.com/) - Free online tool to screenshot any web page at desktop, phone or tablet sizes, as an image or PDF, with no account needed. Also available as an API.
+
+- [Fomrix GLB Viewer](https://fomrix.com/glb-viewer) - Free browser-based GLB viewer for inspecting web 3D assets, mesh geometry, materials and textures locally; no account or generation credits are needed for viewing.
 
 ## Interface
 
@@ -209,6 +220,7 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [Font In Logo](https://www.fontinlogo.com/) - Search & find FONTS used by World Brands in their logos, such as Nike, Tesla, Chanel, Adidas, Youtube, BMW font, New York Times, Sony, Nvidia and more.
 - [TypoMonday](https://www.typomonday.com/) - Hello and welcome to my weekly series called typomonday where i share each monday various website layouts i designed in the past week focusing on typography exploration.
 - [Free Faces](https://www.freefaces.gallery/) - This website is a curated collection of typefaces that are available under a variety of free licences somewhere on the interwebs.
+- [FontVibe](https://fontvibe.ai/) - AI text effect and lettering designs for logos, banners and thumbnails, with 390+ AI fonts and 130+ visual styles. Free to try.
 
 ## Advertising
 
