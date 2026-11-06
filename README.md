@@ -121,6 +121,7 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [Mobbin](https://mobbin.com/) - Browse and search across hundreds of iOS apps for UI & UX research.
 - [Flownato](https://www.flownato.com/) - Real Android app screens, complete user flows and UI patterns from Indian consumer apps, with public previews and an MCP server for design research.
 - [60fps](https://60fps.design/) - Endless collection of delightful details from best-in-class apps.
+- [APPLORE](https://applore.app/) - 18,000+ real App Store and Google Play icons, browsable by color and style, with past versions saved.
 
 ## Dark
 
