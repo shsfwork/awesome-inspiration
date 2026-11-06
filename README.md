@@ -121,6 +121,7 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [Mobbin](https://mobbin.com/) - Browse and search across hundreds of iOS apps for UI & UX research.
 - [Flownato](https://www.flownato.com/) - Real Android app screens, complete user flows and UI patterns from Indian consumer apps, with public previews and an MCP server for design research.
 - [60fps](https://60fps.design/) - Endless collection of delightful details from best-in-class apps.
+- [APPLORE](https://applore.app/) - 18,000+ real App Store and Google Play icons, browsable by color and style, with past versions saved.
 
 ## Dark
 
@@ -176,8 +177,13 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [Nutilz](https://nutilz.com) - 23 free browser-based developer tools: regex tester, JSON formatter, unit converter, and calculators. No sign-up required.
 
 - [ArtboardLab](https://artboardlab.com) - Free browser-based design tools: open and convert Adobe Illustrator (.ai) files to SVG/PNG/PDF, plus image compression (PNG/JPG/WebP/AVIF). Everything runs in the browser — no upload, no account needed.
+- [Pic2SVG](https://pic2svg.com/) - Browser-based image-to-SVG converter with editable paths and SVG, PDF, EPS, AI, and DXF export.
+- [IconVectors](https://iconvectors.io/) - Desktop SVG icon editor for Windows, macOS, and Linux with vector editing and export to SVG, React, Vue, and native UI formats. Paid software with a 30-day trial.
 - [PicCollages](https://piccollages.com/) - Free browser-based photo collage maker with grid layouts, spacing, borders, text and stickers; local editing and direct export need no account, while optional account work-saving uploads photos.
 - [deed.page](https://deed.page) - Free hosting for a single HTML file or a static folder: upload with one `curl -T` command and get a permanent public link, no account needed. Handy for sharing prototypes and design mockups.
+- [CurlShot](https://curlshot.com/) - Free online tool to screenshot any web page at desktop, phone or tablet sizes, as an image or PDF, with no account needed. Also available as an API.
+
+- [Fomrix GLB Viewer](https://fomrix.com/glb-viewer) - Free browser-based GLB viewer for inspecting web 3D assets, mesh geometry, materials and textures locally; no account or generation credits are needed for viewing.
 
 ## Interface
 
