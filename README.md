@@ -177,6 +177,7 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [Nutilz](https://nutilz.com) - 23 free browser-based developer tools: regex tester, JSON formatter, unit converter, and calculators. No sign-up required.
 
 - [ArtboardLab](https://artboardlab.com) - Free browser-based design tools: open and convert Adobe Illustrator (.ai) files to SVG/PNG/PDF, plus image compression (PNG/JPG/WebP/AVIF). Everything runs in the browser — no upload, no account needed.
+- [Pic2SVG](https://pic2svg.com/) - Browser-based image-to-SVG converter with editable paths and SVG, PDF, EPS, AI, and DXF export.
 - [IconVectors](https://iconvectors.io/) - Desktop SVG icon editor for Windows, macOS, and Linux with vector editing and export to SVG, React, Vue, and native UI formats. Paid software with a 30-day trial.
 - [PicCollages](https://piccollages.com/) - Free browser-based photo collage maker with grid layouts, spacing, borders, text and stickers; local editing and direct export need no account, while optional account work-saving uploads photos.
 - [CurlShot](https://curlshot.com/) - Free online tool to screenshot any web page at desktop, phone or tablet sizes, as an image or PDF, with no account needed. Also available as an API.
