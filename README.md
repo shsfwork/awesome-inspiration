@@ -167,6 +167,7 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [Visual Journal](https://visualjournal.it/) - The best in Branding, Editorial and Graphic Design
 - [Evernote.Design](https://www.evernote.design/) - All in One Bookmark Links for Designer
 - [Checklist Design](https://www.checklist.design/) - A collection of the best design practices.
+- [Design Details](https://designdetails.io/) - A free library of real website designs with full-page captures, motion recordings, typography, and color breakdowns.
 
 ## Development
 
