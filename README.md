@@ -180,6 +180,7 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [Pic2SVG](https://pic2svg.com/) - Browser-based image-to-SVG converter with editable paths and SVG, PDF, EPS, AI, and DXF export.
 - [IconVectors](https://iconvectors.io/) - Desktop SVG icon editor for Windows, macOS, and Linux with vector editing and export to SVG, React, Vue, and native UI formats. Paid software with a 30-day trial.
 - [PicCollages](https://piccollages.com/) - Free browser-based photo collage maker with grid layouts, spacing, borders, text and stickers; local editing and direct export need no account, while optional account work-saving uploads photos.
+- [RadarMakers Maker Tools](https://radarmakers.com/tools) - Free browser tools for indie makers: favicon and PWA icon package, image optimizer, screenshot mockups, UTM link builder, changelog generator, launch date planner, plus meta tag and social card previews. No account needed, files stay in the browser.
 - [deed.page](https://deed.page) - Free hosting for a single HTML file or a static folder: upload with one `curl -T` command and get a permanent public link, no account needed. Handy for sharing prototypes and design mockups.
 - [CurlShot](https://curlshot.com/) - Free online tool to screenshot any web page at desktop, phone or tablet sizes, as an image or PDF, with no account needed. Also available as an API.
 
