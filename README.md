@@ -91,6 +91,7 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 
 - [The component gallery](https://component.gallery/) - The Component Gallery is a collection of components from the best Design Systems.
 - [uilabs](https://www.uilabs.dev/) - Small laboratory of fine UI. Website and components designed and built by mrncst.
+- [qodesign-free](https://teodoravadani.github.io/qodesign-free/) - Free MIT animated React components and the live Orbit and Ledger dashboards, with source you can copy in through the shadcn CLI.
 
 ## Web
 
