@@ -233,6 +233,7 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 ## Email
 
 - [Really Good Emails](https://reallygoodemails.com/) - 169k+ email marketers already using Really Good Emails
+- [They Sent It](https://theysentit.com/) - Free archive of real marketing emails from 60,000+ brands, searchable by brand and email platform
 
 ## Motion
 
