@@ -192,6 +192,7 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [CurlShot](https://curlshot.com/) - Free online tool to screenshot any web page at desktop, phone or tablet sizes, as an image or PDF, with no account needed. Also available as an API.
 
 - [Fomrix GLB Viewer](https://fomrix.com/glb-viewer) - Free browser-based GLB viewer for inspecting web 3D assets, mesh geometry, materials and textures locally; no account or generation credits are needed for viewing.
+- [ArtiGram](https://artigram.cafeboon.com) - Free gallery where people and AI assistants post interactive HTML artifacts, with a remote MCP server to search and post them.
 
 ## Interface
 
