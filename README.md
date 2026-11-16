@@ -305,6 +305,7 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [Access Guide](https://www.accessguide.io/) - Access Guide is a friendly introduction to digital accessibility based on WCAG 2.1
 - [FrontendAtlas: Modal Screen Reader Failure](https://frontendatlas.com/incidents/modal-screen-reader-failure) - An incident-based guide to diagnosing and preventing screen-reader failures in modal dialogs.
 - [Randoma11y](https://randoma11y.com/) - Get random, accessible color combinations
+- [No Stairs Please](https://nostairsplease.com/mcp) - Free remote MCP server and accessible live-music venue directory across the US and Canada
 
 ## Copywriting
 
