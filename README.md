@@ -113,6 +113,7 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [One Page Love](https://onepagelove.com/) - One Page Love is a One Page website design gallery showcasing the best Single Page websites, templates and resources.
 - [Siteinspire](https://www.siteinspire.com/) - A showcase of the world's finest web design.
 - [Selected Screens](https://selectedscreens.com/) - Curated web and brand design inspiration: 346 credited projects, each linked to its maker, filterable by element, colour and topic.
+- [Well Designed Sites](https://welldesignedsites.com/) - Hand-picked websites of real small businesses and local organizations, sorted by industry, each with a full-page screenshot and a short note on why the design works.
 
 ## eCommerce
 
