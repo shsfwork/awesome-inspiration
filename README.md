@@ -174,6 +174,7 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [Evernote.Design](https://www.evernote.design/) - All in One Bookmark Links for Designer
 - [Checklist Design](https://www.checklist.design/) - A collection of the best design practices.
 - [Design Details](https://designdetails.io/) - A free library of real website designs with full-page captures, motion recordings, typography, and color breakdowns.
+- [Linger](https://withlinger.com/) - Organize design references and screenshots with notes, source links, and project canvases in a local macOS library.
 
 ## Development
 
