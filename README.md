@@ -242,6 +242,7 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 
 - [Showreelz](https://www.showreelz.com/) - Showreelz is a design inspiration feed showcasing notable motion design videos.
 - [EYECANDY](https://eyecannndy.com/) - Showcases captivating motion graphics and animations.
+- [iArt](https://www.iart.ai/) - Create motion graphics from a text prompt, refine them in chat, and export videos for logo animation, kinetic typography and explainers. Free to start.
 
 ## Data Visualisation
 
