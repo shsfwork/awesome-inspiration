@@ -130,6 +130,7 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [60fps](https://60fps.design/) - Endless collection of delightful details from best-in-class apps.
 - [APPLORE](https://applore.app/) - 18,000+ real App Store and Google Play icons, browsable by color and style, with past versions saved.
 - [AppScreen](https://appscreen.pro) - Free browser-based App Store and Google Play screenshot maker with device frames, captions, and export to every store size.
+- [ScreenKits](https://screenkits.app/) - Browse real mobile app screenshots, including onboarding and paywall patterns.
 
 ## Dark
 
