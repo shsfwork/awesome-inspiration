@@ -113,6 +113,7 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [One Page Love](https://onepagelove.com/) - One Page Love is a One Page website design gallery showcasing the best Single Page websites, templates and resources.
 - [Siteinspire](https://www.siteinspire.com/) - A showcase of the world's finest web design.
 - [Selected Screens](https://selectedscreens.com/) - Curated web and brand design inspiration: 346 credited projects, each linked to its maker, filterable by element, colour and topic.
+- [Well Designed Sites](https://welldesignedsites.com/) - Hand-picked websites of real small businesses and local organizations, sorted by industry, each with a full-page screenshot and a short note on why the design works.
 
 ## eCommerce
 
@@ -175,6 +176,7 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [Checklist Design](https://www.checklist.design/) - A collection of the best design practices.
 - [Design Details](https://designdetails.io/) - A free library of real website designs with full-page captures, motion recordings, typography, and color breakdowns.
 - [Refto Explore](https://refto.one/explore) - A free, hand-curated gallery of real websites, each with full-page screenshots and version history, page sections and a DESIGN.md file describing its colours, type and components.
+- [Linger](https://withlinger.com/) - Organize design references and screenshots with notes, source links, and project canvases in a local macOS library.
 
 ## Development
 
@@ -186,6 +188,7 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 
 - [ArtboardLab](https://artboardlab.com) - Free browser-based design tools: open and convert Adobe Illustrator (.ai) files to SVG/PNG/PDF, plus image compression (PNG/JPG/WebP/AVIF). Everything runs in the browser — no upload, no account needed.
 - [Pic2SVG](https://pic2svg.com/) - Browser-based image-to-SVG converter with editable paths and SVG, PDF, EPS, AI, and DXF export.
+- [SnapShrink](https://getsnapshrink.com/) - Free browser-based batch image compressor and converter. Compress, convert and resize images with no upload and no account needed.
 - [IconVectors](https://iconvectors.io/) - Desktop SVG icon editor for Windows, macOS, and Linux with vector editing and export to SVG, React, Vue, and native UI formats. Paid software with a 30-day trial.
 - [PicCollages](https://piccollages.com/) - Free browser-based photo collage maker with grid layouts, spacing, borders, text and stickers; local editing and direct export need no account, while optional account work-saving uploads photos.
 - [Pic2Vector](https://pic2vector.com/) - Free browser-based image to SVG converter. Local WebAssembly tracing (vtracer), no account, watermark-free layered SVG export.
@@ -243,6 +246,7 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 
 - [Showreelz](https://www.showreelz.com/) - Showreelz is a design inspiration feed showcasing notable motion design videos.
 - [EYECANDY](https://eyecannndy.com/) - Showcases captivating motion graphics and animations.
+- [iArt](https://www.iart.ai/) - Create motion graphics from a text prompt, refine them in chat, and export videos for logo animation, kinetic typography and explainers. Free to start.
 
 ## Data Visualisation
 
